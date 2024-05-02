@@ -1,15 +1,8 @@
-# PyPiRepoTemplate
-Template repo for making a pypi package
+# GraphJudge
+Judge graphs
 
 
-# Repo setup checklist
-- [ ] Set up venv and install packages in `dev-requirements.txt`
-- [ ] Run the generate script `00_RUN_ME_TO_GENERATE_generate_repo_content.py`
-- [ ] Add on [ReadTheDocs](https://readthedocs.org) and add content
-- [ ] Add Tests and Examples
-- [ ] Initial `build_package_script.py` and `publish_package.py` of the package!
-
-# USER GUIDE -> \*\*Read-The-Docs!\*\* [Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+# USER GUIDE -> \*\*Read-The-Docs!\*\* [LinkToDo]
 
 ## DEVELOPMENT - Publishing a new version of this package
 - Update the version number in `setup.py` try to use [sem ver](https://semver.org/) as a guide for which number to bump
